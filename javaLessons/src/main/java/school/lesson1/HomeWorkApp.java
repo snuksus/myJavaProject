@@ -46,8 +46,7 @@ public class HomeWorkApp {
         int b;
         a = 3;
         b = 4;
-        if (a >= b){
-            System.out.println("a >=b");
+        if (a >= b){System.out.println("a < b");
         }
         else {
             System.out.println("a < b");
