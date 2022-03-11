@@ -8,4 +8,5 @@ public class HomeWorkApp6 {
             System.out.print(arr[i]+" ");
         }
     }
+
 }
